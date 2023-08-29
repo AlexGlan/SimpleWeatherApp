@@ -1,0 +1,10 @@
+src/main/resources/config.properties
+src/test
+.vscode/
+.idea/
+target/
+*.class
+*.log
+*.jar
+*.war
+*.ear
