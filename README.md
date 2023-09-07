@@ -17,5 +17,6 @@ mvn exec:java
 ![Screenshot](./screenshots/screenshot.png)
 
 ## Notes
+- Requires Maven installed.
 - NO input validation is done, it's a simple app as I was focused more on the implementation side.
 - API used: https://openweathermap.org/current.
